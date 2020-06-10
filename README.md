@@ -8,7 +8,4 @@ From developing a target to deploying and monitoring a model in the first 100 pa
 
 <img src="handson.jpg" alt="drawing" width="200"/>
 
-![alt text](https://github.com/mattjperez/hands-on-ml/blob/master/handson.jpg?raw=true)
-
-
 [Goodreads (reviews and purchase options)](https://www.goodreads.com/book/show/40363665-hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow?from_search=true&from_srp=true&qid=FASvNdZk1R&rank=2)
