@@ -6,6 +6,6 @@ From developing a target to deploying and monitoring a model in the first 100 pa
 
 **Note:** While the code and visualizations may seem familiar, please pay more attention to the notes and comments while skimming the content. I hope they can help add immediate value to you in some way.
 
-![alt text](https://github.com/mattjperez/hands-on-ml/blob/master/handson.jpg?raw=true)
+![alt text](https://github.com/mattjperez/hands-on-ml/blob/master/handson.jpg =100x20)
 
 [Goodreads (reviews and purchase options)](https://www.goodreads.com/book/show/40363665-hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow?from_search=true&from_srp=true&qid=FASvNdZk1R&rank=2)
